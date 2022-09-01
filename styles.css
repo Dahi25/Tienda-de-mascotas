@@ -79,3 +79,24 @@
         padding: 35px 0px;
     }
 }
+.descripcion{
+    color: gray;
+    padding-top: 50px;
+    font-size: 30px;
+   text-align:center;
+}
+.beneficios{
+ font-weight: bold;
+ color: gray;
+ text-align:left;
+}
+.iconos{
+    display: left;
+    justify-content:left;
+}
+.iconos2{
+    display:left;
+    justify-content:left;
+    position: relative;
+    top:0px;
+}
